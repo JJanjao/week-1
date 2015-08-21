@@ -25,7 +25,7 @@ Answer: 27 times
 
 4. Why we need flag variable ? 
 
-Answer: to sort number untill there are already sort then ,we can go out  from while loop.
+Answer: to sort number until there are already sort then ,we can go out  from while loop.
 
 5. When we remove the flag variable, the code will run faster or slower? in which scenario? 
 
