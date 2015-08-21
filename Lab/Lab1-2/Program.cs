@@ -8,7 +8,8 @@ namespace Lab1_2
 {
     class BubbleSortFunction
     {
-        public int[] getInput(int size){
+        public int[] getInput(int size)  // function input command line
+        {
 
            
             int[] array = new int[size];
@@ -53,7 +54,7 @@ namespace Lab1_2
           
            int size; 
             Console.WriteLine("Put amount of number ");
-            size = Convert.ToInt16(Console.ReadLine());
+            size = Convert.ToInt16(Console.ReadLine()); // GEt input command line
 
             int[] array = a.getInput(size);
             a.Process(array);
