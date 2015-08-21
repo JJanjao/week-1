@@ -30,3 +30,4 @@ Answer: to sort number until there are already sort then ,we can go out  from wh
 5. When we remove the flag variable, the code will run faster or slower? in which scenario? 
 
 Answer: faster because big(o) will changed from n^2 to be n, but ther can't sort finished.
+		6378b352(commit number)
