@@ -6,7 +6,7 @@
 # Questions
 * Why we need "if-else" in function process?
 
-Answer:
+Answer:because 0 and 1 factorial is = 1 and other number calculate by n!*(n-1)!.
 
 
 # Resources
